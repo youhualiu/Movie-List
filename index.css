@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Rubik", sans-serif;
+}
+#list-mode:hover, #card-mode:hover{
+  cursor: pointer;
+}
+.new{
+  border: 1px solid;
+}
+.btn-show-movie-list{
+  max-width: 70px;
+  height: 30px;
+  padding: 0px;
+  margin: 0 10px 0 0;
+}
+.btn-add-favorite-list{
+  max-width: 40px;
+  height: 30px;
+  padding: 0px;
+}
